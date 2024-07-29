@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 <html>
   <body>
     <h2>Daytime professional, nighttime code warrior—balancing the grind and the code.</h2>
